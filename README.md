@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Full stack applications.
+- 🔭 I’m currently working on Data Science applications.
 - 🌱 I’m currently learning Algorithms.
-- 💬 Ask me about Web applications.
+- 💬 Ask me about Data.
 - 📫 How to reach me: (660)-215-8877
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
